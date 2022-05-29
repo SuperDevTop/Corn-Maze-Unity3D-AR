@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: c5752d497db41984794f69265f9b53a3
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Scared
+  - first:
+      74: 689727143527590355
+    second: Happy
+  - first:
+      74: 5539831331247536789
+    second: Jump
+  - first:
+      74: -2303139635821973146
+    second: Crown
+  - first:
+      74: -8703035399731986702
+    second: Talk
+  - first:
+      74: -167814886002320886
+    second: Laugh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texturestrawberry
+    second: {fileID: 2100000, guid: e929d9b3cb3413744aae47a44e2ca693, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 1
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Scared
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 49
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Happy
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 50
+      lastFrame: 69
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 70
+      lastFrame: 80
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crown
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 81
+      lastFrame: 92
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Talk
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 93
+      lastFrame: 116
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Laugh
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 117
+      lastFrame: 140
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Strawberry(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: group
+      parentName: Strawberry(Clone)
+      position: {x: 0.0023688204, y: 0.029139986, z: 0.0008596098}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Modelmesh
+      parentName: Strawberry(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left
+      parentName: Strawberry(Clone)
+      position: {x: 1.0009999, y: 0, z: 0}
+      rotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle4
+      parentName: Strawberry(Clone)
+      position: {x: -0, y: 0.000074973424, z: 0.000038414102}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle1
+      parentName: nurbsCircle4
+      position: {x: 0.0014966303, y: 0.030660655, z: 0.030415723}
+      rotation: {x: -0.02842048, y: -0.023852762, z: -0.043358322, w: 0.99837035}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle3
+      parentName: nurbsCircle1
+      position: {x: -0.004612449, y: -0.00040757412, z: 0.0002093385}
+      rotation: {x: -3.3030602e-18, y: -1.7729085e-35, z: 5.3674724e-18, w: 1}
+      scale: {x: 0.5251868, y: 0.5251868, z: 0.5251868}
+    - name: nurbsCircle2
+      parentName: nurbsCircle1
+      position: {x: 0.0060662287, y: 0.0005360358, z: -0.00027531906}
+      rotation: {x: -3.3030602e-18, y: -1.7729085e-35, z: 5.3674724e-18, w: 1}
+      scale: {x: 0.5251868, y: 0.5251868, z: 0.5251868}
+    - name: joint1
+      parentName: nurbsCircle4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.4943833, y: -0.5055544, z: -0.4943833, w: 0.5055543}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.000001}
+    - name: joint2
+      parentName: joint1
+      position: {x: -0.015300985, y: 8.1185056e-18, z: -3.3975013e-18}
+      rotation: {x: -0.99973226, y: 0.023142934, z: -0, w: -0.000000059604645}
+      scale: {x: 1.0000004, y: 1.0000008, z: 1.0000004}
+    - name: joint3
+      parentName: joint2
+      position: {x: -0.014275751, y: -2.6367797e-18, z: 2.983107e-18}
+      rotation: {x: 0.9997833, y: -0.020820834, z: 1.3844124e-10, w: -0.00000005960448}
+      scale: {x: 0.99999976, y: 1, z: 1.0000004}
+    - name: joint4
+      parentName: joint3
+      position: {x: -0.009658382, y: 2.9153594e-17, z: -5.9918338e-12}
+      rotation: {x: -0.7606392, y: 0.17920505, z: 0.13231403, w: 0.6097594}
+      scale: {x: 1, y: 0.9999999, z: 1.0000001}
+    - name: joint5
+      parentName: joint4
+      position: {x: -0.007892951, y: -1.7207857e-18, z: 2.4980017e-18}
+      rotation: {x: -0.12799975, y: -0.3413042, z: -0.06596492, w: 0.9288575}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: Leaf4
+      parentName: joint5
+      position: {x: -0.0041589853, y: 0.002764919, z: -0.00081324746}
+      rotation: {x: 0.4945912, y: 0.45671886, z: 0.53861004, w: 0.5066426}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.9999999}
+    - name: Leaf5
+      parentName: Leaf4
+      position: {x: -0.0037291355, y: 0.00043559368, z: -0.0031540024}
+      rotation: {x: -0.13043116, y: -0.37644848, z: 0.107543245, w: 0.9108835}
+      scale: {x: 0.9999997, y: 1.0000002, z: 1.0000005}
+    - name: Leaf1
+      parentName: joint5
+      position: {x: -0.0016704891, y: 8.881784e-18, z: 0.004136148}
+      rotation: {x: 0.000000024089703, y: 0.26576588, z: 0.000000034583845, w: 0.96403766}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: Leaf2
+      parentName: Leaf1
+      position: {x: -0.006276367, y: 0.00032908362, z: -0.00072099984}
+      rotation: {x: -0.39413452, y: 0.4107459, z: -0.05049942, w: 0.82060677}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+    - name: Leaf3
+      parentName: Leaf2
+      position: {x: -0.0058343844, y: 0.002418453, z: -0.0012846035}
+      rotation: {x: -0.000000029802315, y: -0.42244884, z: 0.000000052154054, w: 0.9063868}
+      scale: {x: 1, y: 1, z: 1.0000005}
+    - name: Leye
+      parentName: joint3
+      position: {x: -0.000026441521, y: 0.01333399, z: 0.005691233}
+      rotation: {x: -0.000000029802234, y: -6.922066e-11, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000005}
+    - name: Reye
+      parentName: joint3
+      position: {x: -0.0000264444, y: 0.013333942, z: -0.0056912294}
+      rotation: {x: -0.00000007443638, y: -0.00000002997529, z: -1, w: -0.000000016763803}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000004}
+    - name: CROWN
+      parentName: joint3
+      position: {x: -0.011846224, y: 0.0026465415, z: -0.0022292899}
+      rotation: {x: -0.032517973, y: 0.02673203, z: -0.04232145, w: 0.99821687}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000002}
+    - name: joint13
+      parentName: joint2
+      position: {x: -0.0008967748, y: -0.0035299729, z: -5.2600695e-11}
+      rotation: {x: -0.000000017875815, y: -0.000000012067586, z: 0.70934707, w: 0.7048595}
+      scale: {x: 1.0000001, y: 1, z: 0.9999998}
+    - name: joint14
+      parentName: joint13
+      position: {x: -0.0049512135, y: -1.0321604e-18, z: -7.3777345e-11}
+      rotation: {x: 0.000000017875815, y: 0.000000012067586, z: -0.70934707, w: 0.7048595}
+      scale: {x: 1.0000007, y: 1.0000007, z: 1.0000005}
+    - name: Upperteeth
+      parentName: joint2
+      position: {x: -0.0058030006, y: -0.014213247, z: -2.1179389e-10}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.9999998}
+    - name: lowerteeth
+      parentName: joint2
+      position: {x: 0.00101, y: -0.014213247, z: -2.1179389e-10}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.9999998}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

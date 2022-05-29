@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1010779452495",
+    "firebase_url": "https://corn-maze-3fbdc.firebaseio.com",
+    "project_id": "corn-maze-3fbdc",
+    "storage_bucket": "corn-maze-3fbdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010779452495:android:d6789a327438635ff5263a",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.CornMaze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010779452495-uo39549d7iril246gtn3ourtkkh2dh6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwuz3t69_BKNSKdzwqOBY_rFssoh4Q6WE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010779452495-uo39549d7iril246gtn3ourtkkh2dh6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

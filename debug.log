@@ -1,0 +1,170 @@
+[0919/003453.295:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0919/003452.985:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0919/003453.270:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0919/003453.202:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0919/003453.313:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0919/003453.320:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0919/003453.394:ERROR:exception_snapshot_win.cc(99)] thread ID 27996 not found in process
+[0919/003453.488:ERROR:exception_snapshot_win.cc(99)] thread ID 12464 not found in process
+[0919/003453.202:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0919/003453.488:ERROR:exception_snapshot_win.cc(99)] thread ID 18440 not found in process
+[0919/003453.318:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0919/003453.488:ERROR:exception_snapshot_win.cc(99)] thread ID 15240 not found in process
+[0919/003453.488:ERROR:exception_snapshot_win.cc(99)] thread ID 27244 not found in process
+[0919/003453.322:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0919/003453.488:ERROR:exception_snapshot_win.cc(99)] thread ID 24516 not found in process
+[0919/003453.295:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0919/003453.489:ERROR:exception_snapshot_win.cc(99)] thread ID 19164 not found in process
+[0919/003453.186:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0919/003453.490:ERROR:exception_snapshot_win.cc(99)] thread ID 6744 not found in process
+[0919/003453.326:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0919/003453.490:ERROR:exception_snapshot_win.cc(99)] thread ID 23196 not found in process
+[0919/003453.490:ERROR:exception_snapshot_win.cc(99)] thread ID 17312 not found in process
+[0919/003453.499:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0919/003453.499:ERROR:exception_snapshot_win.cc(99)] thread ID 26428 not found in process
+[0919/003453.560:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0919/003453.560:ERROR:exception_snapshot_win.cc(99)] thread ID 29108 not found in process
+[0919/003453.611:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0919/003453.611:ERROR:exception_snapshot_win.cc(99)] thread ID 9704 not found in process
+[0919/003453.710:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003453.710:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003453.710:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003453.717:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0919/003453.717:ERROR:exception_snapshot_win.cc(99)] thread ID 20504 not found in process
+[0919/003453.781:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003453.781:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::LDR_DATA_TABLE_ENTRY<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003453.786:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003453.786:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003453.786:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003453.789:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003453.789:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::LDR_DATA_TABLE_ENTRY<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003453.813:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0919/003453.813:ERROR:exception_snapshot_win.cc(99)] thread ID 16540 not found in process
+[0919/003453.815:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0919/003453.815:ERROR:exception_snapshot_win.cc(99)] thread ID 12060 not found in process
+[0919/003453.820:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003453.820:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003453.820:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003453.880:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003453.880:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003453.880:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003453.989:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003453.989:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::LDR_DATA_TABLE_ENTRY<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003453.989:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003453.989:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003453.989:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.074:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.074:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.074:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::LDR_DATA_TABLE_ENTRY<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.074:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.074:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.074:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::LDR_DATA_TABLE_ENTRY<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.074:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.107:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.107:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.107:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.270:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.270:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.270:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::LDR_DATA_TABLE_ENTRY<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.270:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::LDR_DATA_TABLE_ENTRY<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.270:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.270:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.270:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.270:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.270:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.270:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.296:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.296:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.296:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.296:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.296:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.296:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.296:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.296:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.296:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::LDR_DATA_TABLE_ENTRY<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.296:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::LDR_DATA_TABLE_ENTRY<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.296:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.296:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.296:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::LDR_DATA_TABLE_ENTRY<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.296:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.296:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.296:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::LDR_DATA_TABLE_ENTRY<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.296:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.296:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.296:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.296:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.296:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.296:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::LDR_DATA_TABLE_ENTRY<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.296:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.296:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.296:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.296:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.296:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.296:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.296:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.296:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.296:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.296:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.302:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.302:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.302:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.315:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.315:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.315:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.315:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.315:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.315:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.315:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.315:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.315:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.315:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.315:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.315:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.315:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.315:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::LDR_DATA_TABLE_ENTRY<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.315:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.315:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.315:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::LDR_DATA_TABLE_ENTRY<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.315:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.315:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.315:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.315:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.315:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.315:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.315:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.315:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.315:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.315:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.315:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.315:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.315:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::LDR_DATA_TABLE_ENTRY<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.315:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::LDR_DATA_TABLE_ENTRY<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.315:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.315:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::LDR_DATA_TABLE_ENTRY<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0919/003454.315:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.315:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.315:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.315:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.315:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.315:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.315:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.315:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.315:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.315:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.315:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.315:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.315:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.315:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.315:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.315:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.315:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.315:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.315:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.315:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.315:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.315:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.315:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.315:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0919/003454.419:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0919/003454.419:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0919/003454.419:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
